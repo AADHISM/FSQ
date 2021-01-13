@@ -151,6 +151,10 @@ header div {
   padding: 1rem 0;
   border-bottom: 3px solid var(--primary);
   min-height: 99vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }
 
 .gallery h1 {
